@@ -1,2 +1,2 @@
-# first-android-app
+# android-app-basics
 Following Android Developer Basics
